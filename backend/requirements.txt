@@ -1,0 +1,14 @@
+python-dotenv
+google-adk
+smolagents
+duckduckgo_search
+google_auth_oauthlib
+litellm
+langchain
+langchain-openai
+langchain-google-community
+firebase-admin
+markdownify
+requests
+flask
+flask-cors
